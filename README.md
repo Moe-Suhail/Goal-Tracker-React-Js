@@ -1,5 +1,10 @@
-# Getting Started with Create React App
-
+# Goal Tracker App
+The Goal Tracker App is a simple and effective tool built with React to help users track their goals and deadlines.
+Features
+Goal Input Form: Enter your goals along with deadlines.
+Goal Display: View all entered goals in a list format.
+User Interaction: Add new goals dynamically.
+Clean Interface: User-friendly design for easy goal management.
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
