@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Goal-Tracker-React-Js/static/css/main.8a18b6f4.css",
+    "main.js": "/Goal-Tracker-React-Js/static/js/main.e0f12538.js",
+    "static/js/453.60ef14e3.chunk.js": "/Goal-Tracker-React-Js/static/js/453.60ef14e3.chunk.js",
+    "index.html": "/Goal-Tracker-React-Js/index.html",
+    "main.8a18b6f4.css.map": "/Goal-Tracker-React-Js/static/css/main.8a18b6f4.css.map",
+    "main.e0f12538.js.map": "/Goal-Tracker-React-Js/static/js/main.e0f12538.js.map",
+    "453.60ef14e3.chunk.js.map": "/Goal-Tracker-React-Js/static/js/453.60ef14e3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8a18b6f4.css",
+    "static/js/main.e0f12538.js"
+  ]
+}
